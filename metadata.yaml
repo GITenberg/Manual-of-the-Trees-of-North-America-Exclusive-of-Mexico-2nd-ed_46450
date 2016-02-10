@@ -1,0 +1,33 @@
+_repo: Manual-of-the-Trees-of-North-America-Exclusive-of-Mexico-2nd-ed_46450
+contributor:
+  illustrators:
+  - agent_name: Gill, Mary W.
+    gutenberg_agent_id: '43796'
+    url: http://www.gutenberg.org/2009/agents/43796
+  - agent_name: Faxon, Charles Edward
+    gutenberg_agent_id: '43107'
+    url: http://www.gutenberg.org/2009/agents/43107
+covers:
+- cover_type: archival
+  image_path: 46450/46450-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Sargent, Charles Sprague
+    alias: Sargent, C. S. (Charles Sprague)
+    birthdate: 1841
+    deathdate: 1927
+    gutenberg_agent_id: '35684'
+    url: http://www.gutenberg.org/2009/agents/35684
+description: ''
+gutenberg_issued: '2014-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46450'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Manual of the Trees of North America (Exclusive of Mexico) 2nd ed.
+url: http://www.gutenberg.org/ebooks/46450
